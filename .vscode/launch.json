@@ -1,0 +1,11 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - CourseApiApp",
+            "request": "launch",
+            "mainClass": "mmm.ssr.webapp.CourseApiApp",
+            "projectName": "example"
+        }
+    ]
+}
